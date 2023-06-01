@@ -1,0 +1,23 @@
+body{
+    background:#feff86 ;
+}
+h1{
+color:#146c94 ;
+}
+h2{
+    color:#19a7ce ;
+}
+hr{
+    border-bottom: dotted ;
+    border-color: #321e1e ;
+    border-style: dashed;
+    border-left: dotted;
+    border-width: 3px ;
+    width: 96%
+}
+img{
+    padding-left: 350px;
+}
+h3{
+    padding-left: 450px;
+}
